@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=concistency&show_icons=true&locale=en" alt="concistency" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=concistency)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=concistency)](https://git.io/streak-stats)
